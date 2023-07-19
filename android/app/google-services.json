@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770326577585",
+    "project_id": "tripmo-e94d4",
+    "storage_bucket": "tripmo-e94d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770326577585:android:380c98851af68571bc3d90",
+        "android_client_info": {
+          "package_name": "com.ecapsdev.tripmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770326577585-k3o438hlr6bsen9vlvjsh2t08f20j944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMPYcUX_PYSdo2C0Ax9gq-JgPObAZfEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770326577585-k3o438hlr6bsen9vlvjsh2t08f20j944.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
